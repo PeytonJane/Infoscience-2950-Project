@@ -1,0 +1,28 @@
+Peyton Johnson (pjj44) Naba Deyab (nyd4) Ethan Goldman (emg254) Rohan (rds 285)
+Git Hub Link: https://github.com/PeytonJane/Infoscience-2950-Project
+
+Ideas:
+Meet with your group if you are collaborating. Write down at least three ideas
+for datasets. Include as much information as possible about the availability of
+data.
+
+1) A comparison of different states' economies and purchasing power relative
+to COVID-19 restrictions and lockdowns. Google, Deloitte, J.P. Morgan have
+all published data sets on state, local, and consumer spending throughout
+COVID-19 as well as information prior to the pandemic.
+
+2) An analysis of imports and exports from the year 2009 to 2020 in the United
+States. These datasets are available on the United Census Bureau. We hope to
+research our most common trade partners and the potential impact that different
+presidencies had on trade.
+
+3) E-commerce versus brick and mortar purchases in 2010 to 2020. These datasets
+are available on the United States Census Bureau. This idea would allow us to
+delve into the rise of e-commerce and establish the effects of its success.
+
+
+Questions for reviewers :
+1) In the case of doing a project based on Covid-19, is a year of a half of data
+acceptable?
+2) Is it too soon to analyze meaningful impacts from the pandemic?
+3) Are our ideas too broad? Have we established a small enough frame of reference?
